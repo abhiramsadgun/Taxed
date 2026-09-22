@@ -3,8 +3,8 @@ import "./globals.css";
 import { Providers } from "./providers";
 
 export const metadata: Metadata = {
-  title: "GSTShield AI | AI-Powered GST Compliance",
-  description: "India's smartest GST co-pilot for SMEs and CA firms.",
+  title: "Taxed | Autonomous B2B Tax & FinOps Shield",
+  description: "Autonomous B2B Tax Gating, RazorpayX Payout Shield, and AI Compliance Copilot.",
 };
 
 export default function RootLayout({
